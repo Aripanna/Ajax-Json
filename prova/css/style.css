@@ -1,0 +1,55 @@
+/* Remove the navbar's default rounded borders and increase the bottom margin */ 
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+      background-color: lightblue;
+    }
+    
+    /* Remove the jumbotron's default bottom margin */ 
+     .jumbotron {
+      margin-bottom: 0;
+      height: 500px;
+      background-image: url(http://www.darkbeautymag.com/wp-content/uploads/2014/11/Rebecca-Magdalena-rms.fotografie-Ophelia-Overdose.jpg);
+	  background-position: top;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  color: white;
+	  font-weight: lighter;
+
+    }
+   
+h1{
+	color: white;
+	margin-top: 150px; 
+}
+
+
+p{
+	color: white;
+}
+
+.btn-follow{
+	background-color: transparent;
+	border-style: solid;
+	color: white;
+	width: 20%;
+	margin: 25px auto 15px auto ;
+}
+
+.icona{
+	margin-top: 1.2vh;
+	
+}
+
+.post{
+	margin: 20px auto;
+}
+
+#more{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	font-size: 40px;
+}
+
+
